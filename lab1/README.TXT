@@ -1,3 +1,5 @@
+# Simple fixed-size (array-based) multi-function list in C (stack & queue)
+
 inttypes.h included as request of Mr. Sayin
 
 In the while(1) loop, comments can be deleted to test the program and functionality.
