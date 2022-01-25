@@ -6,3 +6,5 @@ Tools used: edsim51 and Keil uVision 5
 Lab1 - Simple multi-function list in C (stack & queue)
 
 Lab2 - UART, Keypad, LCD practice
+
+Lab3 - DAC Flasher
