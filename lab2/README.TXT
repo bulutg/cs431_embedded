@@ -1,0 +1,1 @@
+System Clock = 11.059 MHz
